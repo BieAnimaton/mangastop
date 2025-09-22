@@ -6,7 +6,7 @@ toc: true
 
 # Sobre o Mangas Top
 
-**Data de vigência:** 12/09/2025
+**Data de vigência:** 22/09/2025
 
 O **Mangas Top** é uma iniciativa independente criada por **Gabriel Cossare Bragion (Bie)**, com foco em tecnologia, mídia digital e projetos de conteúdo.  
 O objetivo é desenvolver sites e aplicativos que entreguem **informação, entretenimento e utilidade**, sempre de forma acessível e gratuita.
