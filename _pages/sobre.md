@@ -4,11 +4,11 @@ permalink: /sobre/
 toc: true
 ---
 
-# Sobre a Animes Top
+# Sobre o Mangas Top
 
 **Data de vigência:** 12/09/2025
 
-A **Animes Top** é uma iniciativa independente criada por **Gabriel Cossare Bragion (Bie)**, com foco em tecnologia, mídia digital e projetos de conteúdo.  
+O **Mangas Top** é uma iniciativa independente criada por **Gabriel Cossare Bragion (Bie)**, com foco em tecnologia, mídia digital e projetos de conteúdo.  
 O objetivo é desenvolver sites e aplicativos que entreguem **informação, entretenimento e utilidade**, sempre de forma acessível e gratuita.
 
 ## Missão
@@ -19,13 +19,16 @@ Promover experiências digitais simples, funcionais e abertas, sem barreiras de 
 - **Animes Top** — [animestop.com.br](https://animestop.com.br)  
   Site dedicado a notícias, análises e guias sobre animes e mangás.
 
+- **Mangas Top** — [mangestop.com.br](https://mangastop.com.br)  
+  Site dedicado a notícias, análises e curiosidades sobre mangás.
+
 - **Livre Sou** — [livresou.com.br](https://livresou.com.br)  
   Plataforma voltada para formação de investidores.
 
 ## Privacidade
 O site **não possui cadastro de usuários** nem exige informações pessoais para navegação.  
 O que pode ser coletado depende dos serviços de terceiros utilizados (como Google AdSense ou Disqus).  
-A Animes Top não vende, compartilha ou armazena informações em seus próprios servidores.
+O Mangas Top não vende, compartilha ou armazena informações em seus próprios servidores.
 
 ## Cookies
 O site em si não utiliza cookies próprios.  
@@ -35,7 +38,7 @@ Os usuários podem gerenciar preferências de anúncios diretamente nas [Configu
 ## Comentários (Disqus)
 As áreas de comentários utilizam o sistema **Disqus**.  
 Todos os dados fornecidos (comentário, nome de usuário, data/hora e endereço IP) são armazenados e processados **diretamente pelo Disqus**, conforme sua [Política de Privacidade](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy).  
-A Animes Top não processa nem armazena essas informações.
+O Mangas Top não processa nem armazena essas informações.
 
 ## Segurança
 Todo o conteúdo publicado reflete opiniões e análises editoriais, **não constituindo aconselhamento profissional**.  
@@ -48,4 +51,4 @@ Se algum conteúdo infringir direitos, entre em contato para remoção imediata.
 
 ## Contato
 Para dúvidas, sugestões ou parcerias, entre em contato:  
-✉️ **animestop.com.br@gmail.com**
+✉️ **mangastop.com.br@gmail.com**
