@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Melhores Mangás para Ler: Obras que Marcaram Gerações"
 categories:
-  - Manga
+  - Mangas
 tags:
   - Shounen
   - Seinen
