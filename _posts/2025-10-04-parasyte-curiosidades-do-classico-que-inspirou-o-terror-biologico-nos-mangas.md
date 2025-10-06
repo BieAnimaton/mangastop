@@ -1,7 +1,7 @@
 ---
 title: "Parasyte: Curiosidades do Clássico que Inspirou o Terror Biológico nos Mangás"
 categories:
-  - Mangá
+  - Mangas
 tags:
   - Parasyte
   - Hitoshi Iwaaki
