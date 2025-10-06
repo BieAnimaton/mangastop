@@ -1,5 +1,5 @@
 ---
-title: "Uzumaki: Curiosidades do Mangá de Horror que Vai Te Deixar Tonto"
+title: "Curiosidades sobre o Mangá Uzumaki"
 categories:
   - Mangas
 tags:

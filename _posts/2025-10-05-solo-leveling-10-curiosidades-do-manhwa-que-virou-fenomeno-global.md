@@ -1,5 +1,5 @@
 ---
-title: "Solo Leveling: Curiosidades do Manhwa que Conquistou o Mundo"
+title: "Solo Leveling: 10 Curiosidades do Manhwa que Virou Fenômeno Global"
 categories:
   - Manhwa
 tags:
