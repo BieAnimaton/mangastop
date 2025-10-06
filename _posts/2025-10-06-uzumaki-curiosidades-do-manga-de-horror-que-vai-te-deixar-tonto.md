@@ -1,7 +1,7 @@
 ---
 title: "Uzumaki: Curiosidades do Mangá de Horror que Vai Te Deixar Tonto"
 categories:
-  - Mangá
+  - Mangas
 tags:
   - Uzumaki
   - Junji Ito
