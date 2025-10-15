@@ -1,7 +1,7 @@
 ---
 title: "Oyasumi Punpun: O Mangá Brilhante (e Perturbador) Que Ainda Não Virou Anime"
 categories:
-  - Mangás
+  - Mangas
 tags:
   - Oyasumi Punpun
   - Inio Asano
