@@ -1,7 +1,7 @@
 ---
 title: "Bastard: O Manhwa de Terror Psicológico Que Vai Te Deixar Sem Fôlego"
 categories:
-  - Manhwas
+  - Manhwa
 tags:
   - Bastard
   - Manhwa de Terror
