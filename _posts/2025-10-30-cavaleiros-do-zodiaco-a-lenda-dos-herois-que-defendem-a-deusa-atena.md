@@ -77,7 +77,3 @@ O mangá se destaca pela fusão com a **mitologia grega**, trazendo figuras mito
 ⏳ **Qual cavaleiro você seria? Seiya, Shiryu, Hyoga, Shun ou Ikki?**  
 📱 Já leu o mangá ou assistiu ao anime? Qual sua saga favorita da franquia?  
 Deixe seu comentário e compartilhe suas memórias de *Cavaleiros do Zodíaco* — quem sabe você revele um segredo sobre as armaduras de ouro!
-
----
-
-Esse seria um formato de post sobre *Cavaleiros do Zodíaco*. Como você vê? Tem algo que gostaria de mudar ou acrescentar?

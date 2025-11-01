@@ -78,7 +78,3 @@ O universo de *The Breaker* é dominado por **organizações secretas** e **mest
 ⏳ **Você conseguiria suportar a pressão de um mestre tão enigmático quanto Cheon-Woo?**  
 📱 Já leu *The Breaker* ou *The Breaker: New Waves*? Quais são suas partes favoritas do manhwa?  
 Deixe seu comentário e compartilhe suas impressões sobre essa incrível jornada de artes marciais!
-
----
-
-Esse post sobre *The Breaker* está pronto para ser compartilhado! O que acha? Tem algo que gostaria de ajustar ou adicionar?

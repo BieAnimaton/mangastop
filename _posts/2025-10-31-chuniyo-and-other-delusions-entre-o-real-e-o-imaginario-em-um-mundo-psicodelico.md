@@ -1,7 +1,7 @@
 ---
 title: "Chuniyo and Other Delusions: Entre o Real e o Imaginário em um Mundo Psicodélico"
 categories:
-  - Manhwa
+  - Mangas
 tags:
   - Chuniyo and Other Delusions
   - Psicologia
@@ -9,18 +9,18 @@ tags:
   - Drama
   - Surrealismo
   - Romance
-  - Webtoon
+  - Mangá
 image:
   feature: /assets/images/chuniyo-and-other-delusions.webp
   thumb: /assets/images/chuniyo-and-other-delusions.webp
 toc: true
-excerpt: "Em *Chuniyo and Other Delusions*, a linha entre a realidade e as ilusões se desfaz, criando uma trama psicologicamente complexa e emocionalmente intensa. Mergulhe nesse manhwa que desafia suas percepções e explora os limites da mente humana."
+excerpt: "Em *Chuniyo and Other Delusions*, a linha entre a realidade e as ilusões se desfaz, criando uma trama psicologicamente complexa e emocionalmente intensa. Mergulhe nesse mangá que desafia suas percepções e explora os limites da mente humana."
 ---
 # Introdução
 
 ![Arte promocional de *Chuniyo and Other Delusions* com a protagonista em um momento de reflexão.](/assets/images/chuniyo-and-other-delusions.webp)
 
-💭 **Chuniyo and Other Delusions** é um manhwa que mergulha em temas complexos como a psicologia humana, os limites da realidade e a batalha interna entre razão e delírio. Criado por **Kim Seong-Jin**, essa obra explora de forma única os pensamentos e as emoções de seus personagens, desafiando o leitor a questionar o que é real.
+💭 **Chuniyo and Other Delusions** é um mangá que mergulha em temas complexos como a psicologia humana, os limites da realidade e a batalha interna entre razão e delírio. Criado por **Kim Seong-Jin**, essa obra explora de forma única os pensamentos e as emoções de seus personagens, desafiando o leitor a questionar o que é real.
 
 A história segue **Chuniyo**, uma jovem que se vê perdida em um mundo onde as fronteiras entre o imaginário e o concreto começam a se desfazer. O que começa como uma jornada de autodescoberta rapidamente se transforma em um mergulho profundo nas complexidades da mente humana.
 
@@ -38,11 +38,11 @@ A trama explora temas de **isolamento**, **confusão emocional** e **dúvidas ex
 
 # 🌠 O Mundo Surreal de *Chuniyo and Other Delusions*
 
-O manhwa se passa em um mundo onde a percepção da realidade de Chuniyo se mistura com uma série de eventos psicodélicos e figuras surreais. Cada página é uma experiência visual e emocionalmente intensa, refletindo o turbilhão interno da protagonista.
+O mangá se passa em um mundo onde a percepção da realidade de Chuniyo se mistura com uma série de eventos psicodélicos e figuras surreais. Cada página é uma experiência visual e emocionalmente intensa, refletindo o turbilhão interno da protagonista.
 
 ✨ O que torna *Chuniyo and Other Delusions* uma obra única:
 
-- **Realidade vs. Ilusão**: O manhwa explora como as mentiras que contamos para nós mesmos podem distorcer a maneira como percebemos o mundo e as pessoas ao nosso redor.
+- **Realidade vs. Ilusão**: O mangá explora como as mentiras que contamos para nós mesmos podem distorcer a maneira como percebemos o mundo e as pessoas ao nosso redor.
 - **Design Psicodélico**: As ilustrações de *Chuniyo and Other Delusions* são marcadas por uma estética surrealista, com cenários e personagens que desafiam as leis da física e da lógica.
 - **Conflitos Emocionais Profundos**: Os dilemas internos de Chuniyo e os relacionamentos com os outros personagens são carregados de tensão, explorando os aspectos mais sombrios da natureza humana.
 
@@ -52,10 +52,10 @@ O manhwa se passa em um mundo onde a percepção da realidade de Chuniyo se mist
 
 # 📚 Onde Ler?
 
-- **Chuniyo and Other Delusions** está disponível para leitura em plataformas de **webtoon**, com uma narrativa que se atualiza com frequência.
-- O manhwa ainda está em andamento, prometendo novos desafios e reviravoltas para os leitores.
+- **Chuniyo and Other Delusions** está disponível para leitura em plataformas digitais de mangá, com capítulos atualizados com frequência.
+- O mangá ainda está em andamento, prometendo novos desafios e reviravoltas para os leitores.
 
-> 🎥 Embora ainda não tenha uma adaptação em anime ou outras mídias, a complexidade e a popularidade do manhwa podem levar a uma possível versão em outra plataforma no futuro.
+> 🎥 Embora ainda não tenha uma adaptação em anime ou outras mídias, a complexidade e a popularidade do mangá podem levar a uma possível versão em outra plataforma no futuro.
 
 ---
 
@@ -73,7 +73,5 @@ O manhwa se passa em um mundo onde a percepção da realidade de Chuniyo se mist
 # E você?
 
 ⏳ **Já leu *Chuniyo and Other Delusions*?** Como você interpreta a linha tênue entre a realidade e o delírio que a protagonista enfrenta?  
-📱 Qual aspecto do manhwa mais te intrigou: as ilustrações surrealistas ou o desenvolvimento psicológico dos personagens?  
-Deixe seu comentário e compartilhe suas impressões sobre esse manhwa que desafia as percepções!
-
----
+📱 Qual aspecto do mangá mais te intrigou: as ilustrações surrealistas ou o desenvolvimento psicológico dos personagens?  
+Deixe seu comentário e compartilhe suas impressões sobre esse mangá que desafia as percepções!
