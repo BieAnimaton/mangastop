@@ -20,17 +20,17 @@ excerpt: "Com arte espetacular e narrativa profunda, Vagabond é uma obra-prima 
 
 ![Ilustração de Musashi em estilo realista com expressão intensa.](/assets/images/vagabond-1.webp)
 
-⚔️ *Vagabond*, de **Takehiko Inoue**, é uma das obras mais respeitadas do mundo dos mangas. Com traços impressionantes e uma narrativa inspirada na vida de **Miyamoto Musashi**, o lendário espadachim japonês, a série mergulha fundo no espírito guerreiro, na filosofia zen e na jornada interior de um homem em busca de propósito.
+⚔️ *Vagabond*, de **Takehiko Inoue**, é uma das obras mais respeitadas do mundo dos mangás. Com traços impressionantes e uma narrativa inspirada na vida de **Miyamoto Musashi**, o lendário espadachim japonês, a série mergulha fundo no espírito guerreiro, na filosofia zen e na jornada interior de um homem em busca de propósito.
 
 Apesar do sucesso e da aclamação crítica, *Vagabond* **nunca recebeu uma adaptação em anime**. Mas por que uma obra tão icônica permanece apenas nas páginas?
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
      crossorigin="anonymous"></script>
-<!-- BlocoDisplay3 -->
+<!-- BlocoDisplay4 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-4481078020462017"
-     data-ad-slot="3999055726"
+     data-ad-slot="2470917870"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
@@ -70,6 +70,18 @@ Embora tenha lutas épicas, o mangá também dedica muito tempo à introspecçã
 
 ### 3. **História Inacabada**
 O mangá está em hiato desde 2015, sem previsão de retorno. Adaptar uma obra sem final pode ser arriscado para os estúdios.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
+     crossorigin="anonymous"></script>
+<!-- BlocoMultiplex4 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-4481078020462017"
+     data-ad-slot="3783999541"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
