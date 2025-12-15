@@ -25,6 +25,19 @@ excerpt: "Em *Gokinjo Monogatari*, acompanhamos a vida de um grupo de jovens que
 
 A história segue **Mikako Satsukitane**, uma aspirante a designer de moda, e **Yūtarō Tsukishima**, seu colega de classe que se apaixona por ela. Enquanto buscam seu lugar no mundo, suas relações e sonhos se entrelaçam, criando uma narrativa doce, engraçada e profundamente humana.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
+     crossorigin="anonymous"></script>
+<!-- BlocoDisplay5 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4481078020462017"
+     data-ad-slot="6933741210"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 # 💕 Mikako e Yūtarō: Um Amor Imperfeito
@@ -48,6 +61,19 @@ Apesar de suas diferenças, os dois são atraídos um pelo outro, e o mangá exp
 - **Desenvolvimento de Personagens**: A evolução de Mikako, Yūtarō e seus amigos ao longo da obra é profunda e tocante, fazendo o leitor se conectar com as experiências e os dilemas da juventude.
 
 > 🛤️ *"A vida é uma jornada cheia de altos e baixos, mas são as experiências compartilhadas que fazem tudo valer a pena."*
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
+     crossorigin="anonymous"></script>
+<!-- BlocoDisplay6 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4481078020462017"
+     data-ad-slot="4023495081"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 

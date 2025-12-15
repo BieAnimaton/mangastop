@@ -26,11 +26,11 @@ Apesar do sucesso e da aclamação crítica, *Vagabond* **nunca recebeu uma adap
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
      crossorigin="anonymous"></script>
-<!-- BlocoDisplay4 -->
+<!-- BlocoDisplay5 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-4481078020462017"
-     data-ad-slot="2470917870"
+     data-ad-slot="6933741210"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
@@ -73,12 +73,13 @@ O mangá está em hiato desde 2015, sem previsão de retorno. Adaptar uma obra s
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
      crossorigin="anonymous"></script>
-<!-- BlocoMultiplex4 -->
+<!-- BlocoDisplay6 -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-format="autorelaxed"
      data-ad-client="ca-pub-4481078020462017"
-     data-ad-slot="3783999541"></ins>
+     data-ad-slot="4023495081"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
