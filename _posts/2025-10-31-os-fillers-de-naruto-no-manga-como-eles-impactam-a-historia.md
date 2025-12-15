@@ -23,6 +23,19 @@ excerpt: "Em *Naruto*, os fillers não são exclusivos do anime. O mangá també
 
 Neste post, vamos explorar os **fillers no mangá de *Naruto***, analisar seu impacto e tentar entender por que Kishimoto, o autor, optou por inserir esses capítulos.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
+     crossorigin="anonymous"></script>
+<!-- BlocoDisplay5 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4481078020462017"
+     data-ad-slot="6933741210"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ---
 
 # 📖 Fillers no Mangá de *Naruto*: Uma Breve Visão
@@ -56,6 +69,19 @@ Embora os fillers possam parecer como momentos de "relaxamento" no meio de toda 
 2. **Criar uma pausa no ritmo**: Após eventos de grande escala, como batalhas épicas ou momentos dramáticos, esses fillers podem servir para dar aos leitores uma pausa, permitindo que eles se conectem com os personagens em um nível mais pessoal.
 
 3. **Explorar relações interpessoais**: Fillers também ajudam a explorar as dinâmicas sociais e emocionais entre os personagens, como as interações de **Sasuke** e **Sakura**, ou a relação mais profunda de Naruto com seus amigos de infância.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4481078020462017"
+     crossorigin="anonymous"></script>
+<!-- BlocoDisplay6 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4481078020462017"
+     data-ad-slot="4023495081"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
